@@ -78,3 +78,5 @@ ant -Dinstall.dir=/awips2/edex -Dupdate.python=false -Dmcast.port=61000 -f deplo
 echo ""
 echo "JAVA_HOME=${JAVA_HOME}"
 exit 0
+
+# more stuff
